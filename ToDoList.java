@@ -42,7 +42,7 @@ public class ToDoList {
                     }
                     System.out.print("Enter number: ");
                     int delIndex = sc.nextInt();
-                    sc.nextLine(); // consume newline
+                    sc.nextLine(); 
 
                     if (delIndex >= 1 && delIndex <= tasks.size()) {
                         String removed = tasks.remove(delIndex - 1);
