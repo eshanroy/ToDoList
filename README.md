@@ -25,7 +25,7 @@ Menu:
 2. View Tasks
 3. Delete Task
 4. Exit
-Enter your choice: 1
+5. Enter your choice: 1
 Enter task: Finish Java project
 Task added!
 
@@ -35,6 +35,6 @@ Menu:
 2. View Tasks
 3. Delete Task
 4. Exit
-Enter your choice: 2
+5. Enter your choice: 2
 Your Tasks:
 1. Finish Java project
