@@ -1,6 +1,6 @@
 # Java To-Do List App
 
-A simple Java To-Do List application where users can add, view, and delete tasks.
+A simple Java To-Do List console application where users can add, view, and delete tasks.
 
 # Features
 
